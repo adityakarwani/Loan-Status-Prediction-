@@ -18,23 +18,10 @@ The loan status prediction project aims to automate and streamline the loan appr
 
 - **Model Evaluation:** To assess the effectiveness of the loan status prediction model, the project employs various evaluation metrics, including accuracy, precision, recall, and F1-score. These metrics provide insights into the model's performance and its ability to generalize to unseen data.
 
-## Getting Started
-
-To run this project locally, follow these steps:
-
-1. Clone the repository: `gh repo clone MYoussef885/Loan_Status_Prediction`
-2. Install the required libraries: If you're using Google Colab, you don't need to pip install. Just follow the importing the dependencies section.
-3. Launch Google Colab: https://colab.research.google.com
-4. Open the `Loan_Status_Prediction.ipynb` file and run the notebook cells sequentially.
 
 ## Conclusion
 
 The loan status prediction project offers a practical solution for automating loan approval processes. By combining data collection, preprocessing, visualization, model training using Support Vector Machines, and model evaluation, this project provides a comprehensive approach to predicting loan statuses. Feel free to explore the code, adapt it to your specific needs, and contribute to the project's development.
-
-
-## License
-
-This project is licensed under the MIT license. See the [LICENSE](LICENSE) file for more information.
 
 ## Acknowledgements
 
